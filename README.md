@@ -8,9 +8,8 @@ djytw storage-manager/djytw存储设备管理器
   You also can manage disks' partition tables. This app can divide your disk into 4 primary partitions most and as many logical partitions as you want.
 
 WARNING:  root permission needed.
-BE CAREFUL when you manage storages.
 -------------
-Any wrong operation could cause your phone block especially when you manage internal storage.
+BE CAREFUL when you manage storages. Any wrong operation could cause your phone block especially when you manage internal storage.
 ===============
   这是一个可以管理连接在手机上的所有存储设备的安卓软件。可以对存储设备进行挂载，卸载，格式化，分区操作。支持fat32,ntfs和各种ext文件系统。
   在支持otg的设备上，如果你的设备不能被系统自动挂载，这时就需要djytw磁盘管理帮你挂载这个设备。不能被系统自动挂载的情况包括:存储设备有多个分区或者存储设备文件系统不是vfat.这个程序可以挂载fat/fat32/ntfs/ext2/3/4 而且你可以自己选择挂载位置。
